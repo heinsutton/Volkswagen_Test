@@ -1,0 +1,30 @@
+.model {
+    margin: 0.25rem;
+    padding: 0.25rem;
+    background-color: #002457;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    color: white;
+  }
+
+  .accordianText {
+    display: inline;
+    font-size: 2rem;
+    color: white;
+    text-align: right;
+  }
+
+  .model h2 {
+    display: inline-block;
+    font-size: 2rem;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+    cursor: pointer;
+  }
+
+  .model h2:hover,
+  .model h2:active {
+    color: #4cc7f4;
+  }
+  

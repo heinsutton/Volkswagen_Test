@@ -1,0 +1,22 @@
+.featureCard {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #00204d;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    color: white;
+  }
+
+  .accordianText {
+    font-size: 1rem;
+    color: white;
+    text-align: right;
+  }
+
+  .model h3 {
+    font-size: 1rem;
+    color: white;
+    word-wrap: break-word;
+    text-align: center;
+  }
+  

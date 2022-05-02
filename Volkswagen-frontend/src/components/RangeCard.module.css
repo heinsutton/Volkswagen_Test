@@ -1,0 +1,79 @@
+.rangeCard {
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #00376d;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    color: white;
+    text-align: left;
+  }
+
+  .accordianText {
+    display: inline;
+    font-size: 2rem;
+    color: red;
+  }
+
+  .rangeCard h3 {
+    font-size: 1rem;
+    color: white;
+    word-wrap: break-word;
+    text-align: left;
+  }
+
+  .center {
+    text-align: center;
+  }
+
+  button {
+    font: inherit;
+    cursor: pointer;
+    background: white;
+    border: 1px solid #230052;
+    color: black;
+    padding: 0.75rem 2rem;
+    border-radius: 20px;
+    width: 98%;
+    max-width: 1000px;
+    font-size: 1rem;
+  }
+
+  input{
+      width: auto;
+      max-width: 100;
+      font-size: 1rem;
+  }
+
+  p {
+    display: inline-block;
+    padding: 0.75rem 2rem;
+    font-size: 1rem;
+    color: white;
+  }
+  
+  button:focus {
+    outline: none;
+  }
+  
+  button:hover,
+  button:active {
+    background-color: #4cc7f4;
+    border-color: #4cc7f4;
+  }
+
+  .rangeCard h3:hover
+  .rangeCard h3:active {
+    color: #230052;
+  }
+
+  .featureList{
+    font-size: 2rem;
+    text-decoration: underline;
+  }
+
+  .featureList:hover,
+  .featureList:active {
+    color: #4cc7f4; 
+    cursor: pointer;
+  }
+  
